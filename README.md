@@ -1,0 +1,2 @@
+# exter-lib
+[QBCORE] LIBRARY UI LIKE NOPIXEL 4.0

@@ -2,6 +2,21 @@
 [QBCORE] LIBRARY UI LIKE NOPIXEL 4.0
 
 
+# PREVIEW
+
+## NOTIFY
+![notify1](https://github.com/user-attachments/assets/2195080e-eca2-4459-b89e-6942bb606fc7)
+![notify2](https://github.com/user-attachments/assets/e46e29be-b289-4a6d-86ee-f2f27d20fea6)
+![notify3](https://github.com/user-attachments/assets/52f8eabf-d83e-423d-a58e-bf2781fa05f0)
+
+## PROGRESSBAR
+![progressbar](https://github.com/user-attachments/assets/51435838-993e-4753-9119-62b82692882c)
+
+## TABLE INFORMATION
+![info](https://github.com/user-attachments/assets/69b457d1-95cb-4d28-bd80-7ab653c26a5f)
+
+
+
 ## QB Notify example edit
 
 Open qb-core/client/functions.lua, find the QBCore.Functions.Progressbar function and replace it with the following
